@@ -37,5 +37,5 @@
 | azure-sdk-for-go-docs-jp | Microsoft Azure SDK for Goの日本語訳 (original: https://github.com/Azure/azure-sdk-for-go) |
 | go-web-workshop-jp | GoのApp EngineでWebアプリケーションを構築する (Japanese translation of https://github.com/campoy/go-web-workshop) |
 | vscode-go-docs-jp | Go言語のサポートを提供するVS Codeの拡張機能の日本語訳。https://marketplace.visualstudio.com/items?itemName=lukehoban.Go |
-| azure-blog-jp | Blog | Microsoft Azure 日本語訳 |
+| azure-blog-jp | Blog \| Microsoft Azure 日本語訳 |
 
