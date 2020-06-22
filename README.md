@@ -15,6 +15,7 @@
 
 | Name | Description |
 | --- | --- |
+| [filedivdir](https://github.com/qt-luigi/filedivdir) | filedivdir divides the files in the base directory by creating a directory for each file timestamp. |
 | [imageproc](https://github.com/qt-luigi/imageproc) | imageproc processes an image file to step by step decreasing brightness and upside down. |
 | [sleep](https://github.com/qt-luigi/sleep) | sleep sleeps proccess. |
 | [fileserver](https://github.com/qt-luigi/fileserver) | fileserver is a static file HTTP server. |
@@ -34,6 +35,7 @@
 
 | Name | Description |
 | --- | --- |
+| [go-autorest-docs-jp](https://github.com/qt-luigi/go-autorest-docs-jp) | Azure/go-autorestの日本語訳 (original: https://github.com/Azure/go-autorest) |
 | [azure-sdk-for-go-docs-jp](https://github.com/qt-luigi/azure-sdk-for-go-docs-jp) | Microsoft Azure SDK for Goの日本語訳 (original: https://github.com/Azure/azure-sdk-for-go) |
 | [go-web-workshop-jp](https://github.com/qt-luigi/go-web-workshop-jp) | GoのApp EngineでWebアプリケーションを構築する (Japanese translation of https://github.com/campoy/go-web-workshop) |
 | [vscode-go-docs-jp](https://github.com/qt-luigi/vscode-go-docs-jp) | Go言語のサポートを提供するVS Codeの拡張機能の日本語訳。https://marketplace.visualstudio.com/items?itemName=lukehoban.Go |
