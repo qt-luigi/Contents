@@ -15,6 +15,7 @@
 
 | Name | Description |
 | --- | --- |
+| [resizepng](https://github.com/qt-luigi/resizepng) | resizepng resizes png file using nfnt/resize's Lanczos3. |
 | [filedivdir](https://github.com/qt-luigi/filedivdir) | filedivdir divides the files in the base directory by creating a directory for each file timestamp. |
 | [imageproc](https://github.com/qt-luigi/imageproc) | imageproc processes an image file to step by step decreasing brightness and upside down. |
 | [sleep](https://github.com/qt-luigi/sleep) | sleep sleeps proccess. |
