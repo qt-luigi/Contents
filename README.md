@@ -36,6 +36,7 @@
 
 | Name | Description |
 | --- | --- |
+| [azure-sdk-docs-golang-jp](https://github.com/qt-luigi/azure-sdk-docs-golang-jp) | Azure/azure-sdkのGo Guidelinesの日本語訳 (original: https://github.com/Azure/azure-sdk/tree/master/docs/golang) |
 | [go-autorest-docs-jp](https://github.com/qt-luigi/go-autorest-docs-jp) | Azure/go-autorestの日本語訳 (original: https://github.com/Azure/go-autorest) |
 | [azure-sdk-for-go-docs-jp](https://github.com/qt-luigi/azure-sdk-for-go-docs-jp) | Microsoft Azure SDK for Goの日本語訳 (original: https://github.com/Azure/azure-sdk-for-go) |
 | [go-web-workshop-jp](https://github.com/qt-luigi/go-web-workshop-jp) | GoのApp EngineでWebアプリケーションを構築する (Japanese translation of https://github.com/campoy/go-web-workshop) |
